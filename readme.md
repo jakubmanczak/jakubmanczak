@@ -1,3 +1,5 @@
-### Hi there 👋
+### jakub mańczak 🎮💖
 
-My name is Jakub Mańczak, people call me j4mesen and I'm a high school student learning IT in Poznań, Poland. I have a website with loads more info that you should see: [manczak.net](https://manczak.net)
+Hi there! My name is Jakub Mańczak, people online call me jamesen and I'm learning IT at a High School in Poznań, Poland.
+
+You can get more info here: [manczak.net](https://manczak.net).
